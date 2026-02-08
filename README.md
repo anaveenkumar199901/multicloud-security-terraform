@@ -5,7 +5,6 @@ This repo is a **working, production-style** baseline that a Security/Platform E
 - **GCP (single project)**
 …from the **same Terraform repo**, with simple toggles.
 
-> ✅ Designed to be human-readable, modular, and safe-by-default.
 > ✅ Works with Terraform `>= 1.5`, AWS provider `>= 5`, Google provider `>= 5`.
 
 ---
